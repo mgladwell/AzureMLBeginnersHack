@@ -13,3 +13,15 @@ You must have the following to complete this lab:
 
 ## 1.4 Open the Azure Machine Learning Studio portal
 ![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/AML.png)
+
+##1.5 Fill out Deployment Options
+![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/CreateWorkspace.png)
+
+##1.6 Deployment Complete
+![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/DelopymentComplete.png)
+
+##1.7 Open Portal
+![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/LaunchStudio.png)
+
+##1.8 Portal Interface!
+![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/Lab.png)
