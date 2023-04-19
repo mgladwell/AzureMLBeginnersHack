@@ -9,15 +9,20 @@ You must have the following to complete this lab:
 ## 1.2 Log into Azure 
 
 ## 1.3 Create an Azure Machine Learning resource
+- Once you're logged onto the Azure Portal, click onto 'Create a resource'. 
+
 ![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/CreateAResource.png)
 
 ## 1.4 Open the Azure Machine Learning Studio portal
+- In the spacebar, please type in 'Azure Machine Learning' and select 'create'. 
 ![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/AML.png)
 
 ## 1.5 Fill out Deployment Options
+- Please fill in the 'Resource group', 'Workspace name', and 'Region', the other columns will fill in automatically. 
 ![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/CreateWorkspace.png)
 
 ## 1.6 Deployment Complete
+
 ![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/DelopymentComplete.png)
 
 ## 1.7 Open Portal
