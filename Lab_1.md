@@ -11,4 +11,4 @@ You must have the following to complete this lab:
 ## 1.3 Create an Azure Machine Learning resource
 
 ## 1.4 Open the Azure Machine Learning Studio portal
-[[https://github.com/mgladwell/AzureMLBeginnersHack/blob/main/image_folder/AML.png]]
+![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/AML.png)
