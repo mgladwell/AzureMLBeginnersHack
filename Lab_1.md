@@ -1,8 +1,13 @@
 # 1. Setting up development environment
 
-
-### 1.1.2. Requirements
+## 1.1 System Requirements
 You must have the following to complete this lab:
 * Windows, Mac or Linux machine
 * Web browser
 * Microsoft Account (signup at https://signup.live.com) 
+
+## 1.2 Log into Azure 
+
+## 1.3 Create an Azure Machine Learning resource
+
+## 1.4 Open the Azure Machine Learning Studio portal
