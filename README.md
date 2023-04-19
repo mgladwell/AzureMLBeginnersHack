@@ -1,7 +1,7 @@
 # AzureMLBeginnersHack
 
-| Lab # | Acitivity |
+| Lab # | Activity |
 | ------------- | ------------- |
-| 1  | Set up |
+| 1  | [Set up](Lab_1.md)|
 | 2  | AutoML  |
 | 3  | Notebook  |
