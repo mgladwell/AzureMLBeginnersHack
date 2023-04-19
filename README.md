@@ -13,8 +13,8 @@ In this lab, we will learn how to set up an environment to start developing Mach
 This set of labs will show you how to:
 
 1. Set up a free Microsoft Azure ML workspace
-  1a. Set up an Azure ML workspace within an existing Azure subscription
+- 1a. Set up an Azure ML workspace within an existing Azure subscription
 2. Set up an AutoML Experience
-  2a. What is AutoML?
-  2b. Create a Data Asset
-  2c. Create a compute cluster to host the AutoML job
+- 2a. What is AutoML?
+- 2b. Create a Data Asset
+- 2c. Create a compute cluster to host the AutoML job
