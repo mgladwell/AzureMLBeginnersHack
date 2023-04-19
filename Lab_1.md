@@ -19,13 +19,15 @@ You must have the following to complete this lab:
 
 ## 1.5 Fill out Deployment Options
 - Please fill in the 'Resource group', 'Workspace name', and 'Region', the other columns will fill in automatically. 
+- Once completed, click 'review and create'. 
 ![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/CreateWorkspace.png)
 
 ## 1.6 Deployment Complete
-
+- Your deployment is complete! Please click 'Go to resource'. 
 ![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/DelopymentComplete.png)
 
 ## 1.7 Open Portal
+- Please click 'launch studio'. 
 ![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/LaunchStudio.png)
 
 ## 1.8 Portal Interface!
