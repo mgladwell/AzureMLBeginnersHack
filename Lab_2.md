@@ -13,11 +13,13 @@
 3. Click on the AutoMl tab on the left side
 ![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/Click_AutomatedML_3.png)
 
+
 4. Click on 'Create a new Automated ML Job' 
 ![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/New_AML_Job4.png)
 
 5.Enter a name for your data asset and click 'next'
 ![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/Create_DataAsset_5.png)
+
 
 ### Select data asset
 5. Select ‘From Azure Open Datasets’ as your source for your data asset
