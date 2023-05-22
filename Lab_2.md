@@ -15,9 +15,11 @@
 
 
 4. Click on 'Create a new Automated ML Job' 
+
 ![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/New_AML_Job4.png)
 
 5.Enter a name for your data asset and click 'next'
+
 ![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/Create_DataAsset_5.png)
 
 
