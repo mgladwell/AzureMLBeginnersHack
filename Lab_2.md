@@ -45,12 +45,12 @@
 ### Select task and settings 
 
 11.Enter a compute name and then click ‘Create’
-![image(https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/Compute_Cluster_12.png)
+![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/Compute_Cluster_12.png)
 
 12.Select ‘Regression’ and then ‘Next’
-![image(https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/Regression_13.png)
+![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/Regression_13.png)
 
 ### Validate and test
 13.Validate and test, click 'Finish'
-![image(https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/Validate_14.png)
+![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/Validate_14.png)
 
