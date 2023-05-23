@@ -30,7 +30,7 @@ Run through each cell individually as you work through the notebook.
 ![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/6_Deploy.png)
 
 
-7. Paste the following into the cell and insert your data asset uri or csv file into the empty brackets between the “”:
+7. Time for some EDA! Complete the following:
 %pip install pandas
 import pandas as pd
 df = pd.read_csv("")
