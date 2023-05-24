@@ -44,7 +44,7 @@
 
 ![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/DataAsset_9.png)
 
-9. Select create new, then enter an experiment name. For ‘Target column’, select 'Quantity'
+9. Select create new, then enter an experiment name. For ‘Target column’, select 'Revenue'
 
 ![image](https://raw.githubusercontent.com/mgladwell/AzureMLBeginnersHack/main/image_folder/Configure_Job_10.png)
 
